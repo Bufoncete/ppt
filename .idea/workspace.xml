@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39f1d340-b4f6-4049-a411-e8ceed01a960" name="Changes" comment="Creación diagrama de clases">
+      <change beforePath="$PROJECT_DIR$/PiedraPapelTijeraLagartoSpock/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/PiedraPapelTijeraLagartoSpock/src/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PiedraPapelTijeraLagartoSpock/src/MoveWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/PiedraPapelTijeraLagartoSpock/src/MoveWords.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L0UWpKww6KYDnM3r22m2cq7bVp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML Class&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Bufon/Desktop/1ºDAW/Entornos de desarrollo/Ejercicios Tema 5/ppt&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ppt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ppt" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39f1d340-b4f6-4049-a411-e8ceed01a960" name="Changes" comment="" />
+      <created>1675007527853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675007527853</updated>
+    </task>
+    <task id="LOCAL-00001" summary="JUEGO MEJORADO A 5 ARMAS">
+      <created>1675007662322</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675007662322</updated>
+    </task>
+    <task id="LOCAL-00002" summary="JUEGO MEJORADO A 5 ARMAS&#10;correción de calcular ganador&#10;funciona correctamente">
+      <created>1675625830441</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675625830441</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Nueva rama">
+      <created>1679251552718</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679251552718</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creación diagrama de clases">
+      <created>1679251903233</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679251903233</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creación diagrama de clases">
+      <created>1679252043576</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679252043576</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JUEGO MEJORADO A 5 ARMAS" />
+    <MESSAGE value="JUEGO MEJORADO A 5 ARMAS&#10;correción de calcular ganador&#10;funciona correctamente" />
+    <MESSAGE value="Nueva rama" />
+    <MESSAGE value="Creación diagrama de clases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creación diagrama de clases" />
+  </component>
+</project>
